@@ -1074,4 +1074,8 @@ want about to a race conditions hear joke?
 **A:** Dependency Day
 
 ---
+**Q:** Why do Java programmers have to wear glasses?
 
+**A:** Because they don’t C#
+
+---
